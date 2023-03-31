@@ -1,2 +1,0 @@
-# schuster
-Schuster Matemática II
