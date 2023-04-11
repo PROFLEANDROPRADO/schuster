@@ -9,26 +9,37 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
+    padding: 35px 0;
+    font-size: 32px;
 }
 
-.cabecalho-imagem{
-    width: 10%;
+.corpo-texto-imagem{
+    width: 30%;
 }
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 0 16px;
-    font-size: 24px;
+    margin: 0 90px;
+    font-size: 32px;
 }
+
+.escola-texto-principal{
+    display: flex;
+    padding: 20px 25px;
+    font-size: 20px;
+    text-align: center;
+}
+
 .escola-imagem{
-    width: 25%;
+    width: 35%;
 }
 .escola{
     background-image: linear-gradient(#0601FF,#00E0FF);
     color: white;
     display: flex;
+    padding: 20px 25px;
+    font-size: 20px;
 }
 .escola-div-conteudo{
-    width: 45%;
+    width: 60%;
 }
