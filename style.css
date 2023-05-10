@@ -43,3 +43,29 @@
 .escola-div-conteudo{
     width: 60%;
 }
+.cursistas{
+    text-align: center;
+    background-color: #00E0FF;
+}
+
+.foto{
+    width: 120px;
+}
+
+.todos-os-cursistas{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer{
+    display: flex;
+    font-size: 10px;
+}
+
+.local{
+    width: 40px;
+}
